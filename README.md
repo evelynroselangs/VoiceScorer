@@ -2,7 +2,7 @@
 VoiceScorer is a python program designed to be used for indoor cricket centres to transform audio input into scoring input.
 
 ## Use
-Download latest release and open the EXE, running that will run the script in a new terminal window. This runs in the background.
+Download latest release and open the EXE, running that will run the script in a new terminal window.
 
 Requires an internet connection (Google Voice to Text).
 
